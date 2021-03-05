@@ -1,0 +1,18 @@
+{
+  "name": "pwabuilder-appgallery-cli",
+  "version": "1.0.0",
+  "description": "Dependencies for pwabuilder-appgallery-cli",
+  "main": "make_hms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Futurewei Technologies, Inc.",
+  "license": "SEE LICENSE.txt",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "console": "^0.7.2",
+    "constants": "0.0.2",
+    "copy-dir": "^1.3.0",
+    "fs-extra": "^9.1.0"
+  }
+}

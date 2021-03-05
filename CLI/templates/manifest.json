@@ -1,0 +1,10 @@
+{
+    "name": "nameReplace",
+    "short_name": "nameReplace",
+    "description": "nameReplace",
+    "start_url": "urlReplace",
+    "scope": "/any/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "lang": "English"
+}

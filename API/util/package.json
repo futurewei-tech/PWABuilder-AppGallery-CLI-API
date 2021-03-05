@@ -1,0 +1,20 @@
+{
+  "name": "util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "get-website-favicon": "0.0.7",
+    "html-metadata": "^1.7.1",
+    "puppeteer": "^5.5.0",
+    "puppeteer-core": "^5.5.0",
+    "scrap-favicon": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Futurewei Technologies, Inc.",
+  "license": "SEE LICENSE.txt"
+}

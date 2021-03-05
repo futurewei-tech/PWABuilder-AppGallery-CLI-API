@@ -1,0 +1,10 @@
+Keep your this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: pwabuilder_keystore.jks
+Key store password: keyStorePass
+Key alias: keyAlias
+Key password: keyPass
+Signer's full name: signerFullname
+Signer's organization: signerOrg
+Signer's organizational unit: signerOrgUnit
+Signer's country code: signerCountry
