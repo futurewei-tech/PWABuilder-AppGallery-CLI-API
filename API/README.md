@@ -19,4 +19,4 @@
 
 3. Modify the environment variables in `.env`
 
-4. Run - `python3 app.py`
+4. Run `python3 app.py`
